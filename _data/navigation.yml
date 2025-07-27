@@ -1,11 +1,11 @@
 main:
-  - title: "Writeups"
-    url: /writeups/
-  - title: "Guides"
-    url: /guides/
-  - title: "Tools"
-    url: /tools/
-  - title: "Cheatsheets"
-    url: /cheatsheets/
-  - title: "Reviews"
-    url: /reviews/
+  - title: "My Research"
+    url: /categories/
+#  - title: "Guides"
+#    url: /guides/
+#  - title: "Tools"
+#    url: /tools/
+#  - title: "Cheatsheets"
+#    url: /cheatsheets/
+#  - title: "Reviews"
+#    url: /reviews/
