@@ -87,12 +87,12 @@ footer:
 
 defaults:
   # _posts
-  classes: wide
   - scope:
       path: ""
       type: posts
     values:
       layout: single
+      classes: wide
       author_profile: true
       read_time: true
       comments: false
