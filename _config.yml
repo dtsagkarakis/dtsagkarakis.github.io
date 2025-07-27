@@ -59,6 +59,7 @@ author:
   name   : "Dimitrios Tsagkarakis"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "My writeups, my cheatsheets and some research! 😎"
+  location : "United Kingdom"
   links:
   #  - label: "Website"
   #    icon: "fas fa-fw fa-link"
@@ -66,8 +67,6 @@ author:
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    url: "https://twitter.com/"
-    - label: "United Kinddom"
-      icon: "fa-solid fa-location-pin"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dtsagkarakis"
