@@ -5,5 +5,3 @@
 layout: home
 author_profile: true
 ---
-
-# Welcome to my messy blog. You will find hands-on hacking writeups, and tools I probably built because nothing else worked (or I just didn't know how to use them properly).
